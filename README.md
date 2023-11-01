@@ -1,6 +1,7 @@
 # mi_primera_app_de_flutter
 
-A new Flutter project.
+Este es el código de mi primera App para Flutter.
+Author: Oscar Mario Rodríguez
 
 ## Getting Started
 
